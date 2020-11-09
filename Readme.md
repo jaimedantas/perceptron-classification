@@ -1,12 +1,11 @@
 # Implementation the perceptron algorithm in MATLAB
-The perceptron algorithm is used for linear classification prediction in machine learning. 
+The perceptron algorithm is used for linear classification in machine learning.
 
 ### Features
 - Perceptron implementation on MATLAB
 - Logistic loss analysis
 - Hinge loss analysis
 - Binary loss analysis
-
 
 ### Dataset
 An 3-dimensional dataset with 200 data points is used for classification. This dataset was originally proposed by Dr. [Ruth Urner](https://www.eecs.yorku.ca/~ruth/) on one of her assignments for ML.
