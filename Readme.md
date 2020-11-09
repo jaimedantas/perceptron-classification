@@ -1,4 +1,4 @@
-# Implementation perceptron algorithm in MATLAB
+# Implementation the perceptron algorithm in MATLAB
 The perceptron algorithm is used for linear classification prediction in machine learning. 
 
 ### Features
