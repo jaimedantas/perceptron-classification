@@ -14,4 +14,4 @@ An 3-dimensional dataset with 200 data points is used for classification. This d
 </div>
 
 ### Documentation
-This implementation is part of an article published on the  [Medium](https://medium.com/@jaimedantas). I encourage you to go over this reading. 
+This implementation is part of an article published on  [Towards Data Science](https://towardsdatascience.com/reasons-why-surrogate-loss-functions-are-pivotal-for-classification-in-machine-learning-e33974ce6d29?source=your_stories_page-------------------------------------). I encourage you to go over this reading. 
